@@ -22,7 +22,7 @@ import re
 import time
 
 #browser = webdriver.Chrome()
-browser = webdriver.PhantomJS()
+browser = webdriver.Chrome()
 
 browser.get('http://www.flashresultats.fr/')
 
@@ -30,7 +30,7 @@ browser.get('http://www.flashresultats.fr/')
 resultats = browser.find_element_by_css_selector('.ifmenu-odds.li4').click()
 
 print("before")
-time.sleep(10)
+time.sleep(3)
 print("after")
 
 #On recupere le tableau des resultats
@@ -44,6 +44,6 @@ for soccer in soup.find_all("table", class_="soccer odds"):
 
     #On extrait chaque match
     for match in soccer.find('tbody').find_all('tr'):
-        print("\t" + match.text)
+        print("\t" + match.text) + ' cote=' + match.find('td', class_="cell_oa").text 
     
-browser.quit()
+browser.close()
