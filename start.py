@@ -17,21 +17,33 @@ url_flashresultat = "'http://www.bloomberg.com/quote/SPX:IND'"
 #webbrowser.open('https://www.lequipe.fr/Football/ligue-1-resultats.html')
 
 from selenium import webdriver
+from selenium.webdriver.support.ui import WebDriverWait
 import re
+import time
 
 #browser = webdriver.Chrome()
 browser = webdriver.PhantomJS()
 
 browser.get('http://www.flashresultats.fr/')
 
+#On va sur la page des cotes
+resultats = browser.find_element_by_css_selector('.ifmenu-odds.li4').click()
+
+print("before")
+time.sleep(10)
+print("after")
+
 #On recupere le tableau des resultats
-resultats = browser.find_element_by_class_name('table-main')
+resultats = browser.find_element_by_class_name('odds-content')
 
 soup = BeautifulSoup(resultats.get_attribute('innerHTML'), 'html.parser')
 
+for soccer in soup.find_all("table", class_="soccer odds"):
+    #On extrait la competition
+    print soccer.find("span", class_="tournament_part").text
 
-
-for tag in soup.find_all("span", class_="tournament_part"):
-    print(tag.text)
-
-browser.close()
+    #On extrait chaque match
+    for match in soccer.find('tbody').find_all('tr'):
+        print("\t" + match.text)
+    
+browser.quit()
