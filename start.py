@@ -7,7 +7,7 @@ import re, time, csv, os
 
 browser = webdriver.Chrome()
 
-#browser.get('https://www.lequipe.fr/Football/ligue-1-resultats.html')
+#On ouvre le site
 browser.get('http://www.flashresultats.fr/')
 
 #On va sur la page des cotes
@@ -18,14 +18,13 @@ time.sleep(3)
 #On recupere le tableau des resultats
 resultats = browser.find_element_by_class_name('odds-content')
 
+#On extrait le HTML pour traitement
 soup = BeautifulSoup(resultats.get_attribute('innerHTML'), 'html.parser')
 
 for soccer in soup.find_all("table", class_="soccer odds"):
     #On extrait la competition
     tournament_part = soccer.find("span", class_="tournament_part").text
 
-    #print tournament_part
-    #if tournament_part == "Coupe du Monde - Qualification":
     exist = False
 
     #Ouverture du fichier / creation du fichier
