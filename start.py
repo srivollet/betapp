@@ -20,6 +20,10 @@ from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 import re
 import time
+import csv
+
+c = csv.writer(open("MONFICHIER.csv", "wb"))
+c.writerow(["horaire","team_home","team_away","score","cote1","coteN","cote2"])
 
 #browser = webdriver.Chrome()
 browser = webdriver.Chrome()
@@ -44,14 +48,15 @@ for soccer in soup.find_all("table", class_="soccer odds"):
         #print tournament_part
         #On extrait chaque match
         for match in soccer.find('tbody').find_all('tr'):
-            horaire = match.find('td', class_="cell_ad").text
-            team_home = match.find('td', class_="team-home").text
-            team_away = match.find('td', class_="team-away").text
-            score = match.find('td', class_="score").text
-            cote1 = match.find('td', class_="cell_oa").text
-            coteN = match.find('td', class_="cell_ob").text
-            cote2 = match.find('td', class_="cell_oc").text
+            horaire = match.find('td', class_="cell_ad").text.encode('utf-8')
+            team_home = match.find('td', class_="team-home").text.encode('utf-8')
+            team_away = match.find('td', class_="team-away").text.encode('utf-8')
+            score = match.find('td', class_="score").text.encode('utf-8')
+            cote1 = match.find('td', class_="cell_oa").text.encode('utf-8')
+            coteN = match.find('td', class_="cell_ob").text.encode('utf-8')
+            cote2 = match.find('td', class_="cell_oc").text.encode('utf-8')
 
-            print horaire + ' ' + team_home + ' ' + team_away + ' ' + score + ' ' + cote1 + ' ' + coteN + ' ' + cote2
+            #insertion dans la base
+            c.writerow([horaire,team_home,team_away,score,cote1,coteN,cote2])
     
 browser.close()
