@@ -1,0 +1,6 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,14:00,Metalist 1925 Kharkiv,Dnipro,1 : 0,-,-,-
+<type 'datetime.time'>,14:00,Tavriya,Hornostayivka,1 : 0,-,-,-
+<type 'datetime.time'>,14:00,Zhytomyr,Nyva-V,0 : 2,-,-,-
+<type 'datetime.time'>,15:00,Ahrobiznes Volochysk,Nyva Ternopil,5 : 1,-,-,-
+<type 'datetime.time'>,15:00,Dnipro-1,Nikopol,2 : 1,-,-,-

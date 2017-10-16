@@ -1,0 +1,5 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,11:30,Moragasmulla,Java Lane,-,-,-,-
+<type 'datetime.time'>,11:30,Negombo Youth,Navy,-,-,-,-
+<type 'datetime.time'>,11:30,New Young's SC,Saunders,-,-,-,-
+<type 'datetime.time'>,11:30,Police,Renown,-,-,-,-

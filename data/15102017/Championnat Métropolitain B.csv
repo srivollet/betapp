@@ -1,0 +1,3 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,01:05,Deportivo Espanol,Tristan Suarez,0 : 1,-,-,-
+<type 'datetime.time'>,16:00,San Telmo,Def. de Belgrano,1 : 0,-,-,-

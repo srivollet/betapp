@@ -1,0 +1,6 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,16:00,Landskrona,Utsiktens ,2 : 0,-,-,-
+<type 'datetime.time'>,16:00,Oddevold,Skövde,1 : 0,-,-,-
+<type 'datetime.time'>,16:00,Rosengard,Ljungskile,1 : 5,-,-,-
+<type 'datetime.time'>,17:00,Husqvarna,Qviding,4 : 1,-,-,-
+<type 'datetime.time'>,17:00,Kristianstads,Mjallby,0 : 3,-,-,-

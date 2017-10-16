@@ -1,0 +1,7 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,03:00,Alajuelense,Carmelita,1 : 3,-,-,-
+<type 'datetime.time'>,19:00,Cartagines,Saprissa,3 : 4,-,-,-
+<type 'datetime.time'>,19:00,Grecia,Zeledon,0 : 3,-,-,-
+<type 'datetime.time'>,21:00,Guadalupe,Santos De Guapiles,0 : 3,-,-,-
+<type 'datetime.time'>,21:30,Limon,Herediano,1 : 1,-,-,-
+<type 'datetime.time'>,22:00,Liberia,U.C.R.,1 : 0,-,-,-

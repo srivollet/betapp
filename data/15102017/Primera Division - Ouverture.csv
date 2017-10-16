@@ -1,0 +1,5 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,02:00,UNAN-Managua,Ocotal,4 : 0,-,-,-
+<type 'datetime.time'>,03:00,Diriangen,Ferretti,0 : 2,-,-,-
+<type 'datetime.time'>,19:00,Real Madriz,San Francisco,2 : 2,-,-,-
+<type 'datetime.time'>,23:00,Juventus Managua,Chinandega,-,-,-,-

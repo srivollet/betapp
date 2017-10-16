@@ -1,0 +1,6 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,10:00,Persela,Padang,2 : 0,-,-,-
+<type 'datetime.time'>,13:30,Barito Putera,Bhayangkara Utd,1 : 0,-,-,-
+<type 'datetime.time'>,13:30,PSM Makassar,Persib,2 : 1,-,-,-
+<type 'datetime.time'>,17:00,Sepsi,Astra,0 : 0,3.40,2.85,1.80
+<type 'datetime.time'>,19:45,CFR Cluj,Botosani,0 : 0,1.35,3.40,6.00

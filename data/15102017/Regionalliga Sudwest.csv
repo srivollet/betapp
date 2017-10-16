@@ -1,0 +1,3 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,14:00,Kassel,Mainz II,3 : 4,-,-,-
+<type 'datetime.time'>,14:00,Stuttgart II,Mannheim,3 : 1,-,-,-

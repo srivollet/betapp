@@ -1,0 +1,4 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,17:00,Ermis,Omonia,2 : 1,5.50,3.70,1.38
+<type 'datetime.time'>,18:00,Ol. Nicosia,Alki Oroklini,0 : 3,3.00,2.85,2.00
+<type 'datetime.time'>,19:00,AEL Limassol,Paphos,0 : 1,1.48,3.40,4.90

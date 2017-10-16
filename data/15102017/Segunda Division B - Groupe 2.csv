@@ -1,0 +1,8 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,11:30,Ath. Bilbao B,Pena,4 : 1,-,-,-
+<type 'datetime.time'>,12:00,Lealtad,R. Union,1 : 0,-,-,-
+<type 'datetime.time'>,17:00,Amorebieta,Mirandes,0 : 1,-,-,-
+<type 'datetime.time'>,17:00,Barakaldo,Gijon B,2 : 1,-,-,-
+<type 'datetime.time'>,17:00,Tudelano,UD Logrones,0 : 0,-,-,-
+<type 'datetime.time'>,17:30,Burgos,Gernika Club ,0 : 0,-,-,-
+<type 'datetime.time'>,18:30,Caudal Deportivo,Arenas Club,0 : 2,-,-,-

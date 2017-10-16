@@ -1,0 +1,8 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,14:30,Arezzo,Olbia,0 : 1,-,-,-
+<type 'datetime.time'>,14:30,Arzachena,Alessandria,0 : 0,-,-,-
+<type 'datetime.time'>,14:30,Cuneo,Livorno,0 : 4,-,-,-
+<type 'datetime.time'>,14:30,Prato,Monza ,2 : 3,-,-,-
+<type 'datetime.time'>,16:30,Giana Erminio,Carrarese,2 : 2,-,-,-
+<type 'datetime.time'>,16:30,Pisa,Gavorrano ,0 : 0,-,-,-
+<type 'datetime.time'>,18:30,Pistoiese,Lucchese,2 : 2,-,-,-

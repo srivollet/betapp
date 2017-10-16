@@ -1,0 +1,8 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,01:10,Olimpia Asuncion,Nacional Asuncion,2 : 0,-,-,-
+<type 'datetime.time'>,23:00,Sol De America,Diaz,-,-,-,-
+<type 'datetime.time'>,21:30,Boston River,Cerro CA,0 : 0,-,-,-
+<type 'datetime.time'>,21:30,Club Nacional,El Tanque Sisley,1 : 0,-,-,-
+<type 'datetime.time'>,21:30,Juventud,Danubio,0 : 0,-,-,-
+<type 'datetime.time'>,21:30,Sud America,Plaza Colonia,1 : 0,-,-,-
+<type 'datetime.time'>,21:30,Wanderers,Liverpool M.,2 : 0,-,-,-

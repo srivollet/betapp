@@ -1,0 +1,3 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,01:15,Sportivo Limpeno F,Independiente Santa Fe F ,2 : 2,-,-,-
+<type 'datetime.time'>,23:00,Estudiantes de Guarico F,River Plate F,-,-,-,-

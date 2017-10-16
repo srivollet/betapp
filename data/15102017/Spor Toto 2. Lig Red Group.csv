@@ -1,0 +1,8 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,13:00,Amedspor,Kocaeli Birlikspor,2 : 1,-,-,-
+<type 'datetime.time'>,13:30,Hatayspor,Bodrumspor ,1 : 0,-,-,-
+<type 'datetime.time'>,13:30,Kastamonuspor,Etimesgut,2 : 0,-,-,-
+<type 'datetime.time'>,13:30,Tokatspor,Tuzlaspor,2 : 1,-,-,-
+<type 'datetime.time'>,14:00,Inegolspor,Bucaspor,1 : 0,-,-,-
+<type 'datetime.time'>,18:00,Afjet Afyonspor,Eyupspor,2 : 2,-,-,-
+<type 'datetime.time'>,18:00,Mersin,Sivas Belediyespor,0 : 1,-,-,-

@@ -1,0 +1,9 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,13:00,Biolog,Kuban 2,2 : 0,-,-,-
+<type 'datetime.time'>,13:30,Anzhi 2,SKA Rostov,0 : 0,-,-,-
+<type 'datetime.time'>,14:00,Dynamo Stavropol,FK Chayka,0 : 2,-,-,-
+<type 'datetime.time'>,14:00,FC Akademia,Legion Dynamo,0 : 2,-,-,-
+<type 'datetime.time'>,14:00,Mashuk,Krasnodar 2,0 : 0,-,-,-
+<type 'datetime.time'>,15:00,Chornomorets,Maykop,5 : 0,-,-,-
+<type 'datetime.time'>,16:00,Afips,Nalchik,3 : 1,-,-,-
+<type 'datetime.time'>,16:00,Armavir,Vladikavkaz,4 : 0,-,-,-

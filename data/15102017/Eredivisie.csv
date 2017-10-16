@@ -1,0 +1,6 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,12:30,Heracles,Vitesse,1 : 1,2.95,3.20,1.95
+<type 'datetime.time'>,14:30,Groningen,Alkmaar,1 : 1,2.75,3.40,1.95
+<type 'datetime.time'>,14:30,Venlo ,PSV,2 : 5,4.90,3.80,1.42
+<type 'datetime.time'>,14:30,Willem II,Twente,3 : 1,2.20,3.00,2.65
+<type 'datetime.time'>,16:45,Den Haag ,Excelsior,1 : 2,2.10,2.95,2.80

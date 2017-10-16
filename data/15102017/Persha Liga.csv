@@ -1,0 +1,7 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,14:00,FC Poltava,Rukh Vynnyky,1 : 0,-,-,-
+<type 'datetime.time'>,14:00,Kremin,A. Kiev,1 : 1,-,-,-
+<type 'datetime.time'>,14:00,Naftovik,Kolos Kovalyovka,2 : 1,-,-,-
+<type 'datetime.time'>,14:30,Mykolaiv,Kramatorsk,2 : 2,-,-,-
+<type 'datetime.time'>,15:00,Inhulets,Balkany Zorya,1 : 0,-,-,-
+<type 'datetime.time'>,15:00,Obolon Brovar Kyjev,Zhemchuzhyna Odesa,0 : 0,-,-,-

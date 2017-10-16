@@ -1,0 +1,2 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,00:00,Fortaleza,CSA,1 : 2,-,-,-

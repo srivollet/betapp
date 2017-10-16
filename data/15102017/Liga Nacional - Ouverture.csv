@@ -1,0 +1,9 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,19:00,Municipal,Comunicaciones,0 : 0,-,-,-
+<type 'datetime.time'>,19:00,Siquinala ,Marquense,4 : 0,-,-,-
+<type 'datetime.time'>,20:00,Malacateco,Coban Imperial,5 : 0,-,-,-
+<type 'datetime.time'>,20:00,Suchitepequez,Sanarate,1 : 0,-,-,-
+<type 'datetime.time'>,20:00,Xelaju,Antigua,1 : 0,-,-,-
+<type 'datetime.time'>,22:30,Guastatoya,Petapa,-,-,-,-
+<type 'datetime.time'>,03:00,Real Espana,UPNFM ,2 : 3,-,-,-
+<type 'datetime.time'>,23:00,Platense,Marathon,-,-,-,-

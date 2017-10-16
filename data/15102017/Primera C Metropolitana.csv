@@ -1,0 +1,3 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,20:30,San Martin Burzaco,Sportivo Barracas,2 : 0,-,-,-
+<type 'datetime.time'>,20:50,Deportivo Merlo,Dock Sud,0 : 0,-,-,-

@@ -1,0 +1,6 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,11:30,FC Séville F,Albacete F,3 : 3,-,-,-
+<type 'datetime.time'>,12:00,Espanyol F,Zaragoza CFF F,2 : 1,-,-,-
+<type 'datetime.time'>,12:30,Tenerife F,Santa Teresa F,5 : 1,-,-,-
+<type 'datetime.time'>,16:00,Atletico Madrid F,Huelva F,3 : 1,-,-,-
+<type 'datetime.time'>,16:00,Madrid C. F,Athletic Bilbao F,0 : 1,-,-,-

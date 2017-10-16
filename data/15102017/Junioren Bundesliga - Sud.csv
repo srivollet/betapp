@@ -1,0 +1,5 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,11:00,Augsburg -19,Freiburg -19,0 : 1,-,-,-
+<type 'datetime.time'>,11:00,Frankfurt -19,Mainz -19,1 : 1,-,-,-
+<type 'datetime.time'>,11:00,Nurnberg -19,Unterhaching -19,2 : 3,-,-,-
+<type 'datetime.time'>,12:30,Wehen -19,Karlsruher -19,1 : 1,-,-,-

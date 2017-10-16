@@ -1,0 +1,8 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,01:30,Santamarina,Atl. Rafaela,1 : 0,-,-,-
+<type 'datetime.time'>,19:35,Nueva Chicago,Deportivo Moron,1 : 1,-,-,-
+<type 'datetime.time'>,20:30,Flandria,Brown Adrogue,0 : 0,-,-,-
+<type 'datetime.time'>,21:00,CDJU Gualeguaychu,Ind. Rivadavia,0 : 0,-,-,-
+<type 'datetime.time'>,22:00,Gimnasia Jujuy,Villa Dalmine,0 : 0,-,-,-
+<type 'datetime.time'>,22:00,Sportivo Estudiantes,Boca Unidos,0 : 0,-,-,-
+<type 'datetime.time'>,23:00,Almagro,All Boys,-,-,-,-

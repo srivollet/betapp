@@ -1,0 +1,7 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,14:00,IFK Lulea ,Brage,0 : 2,-,-,-
+<type 'datetime.time'>,15:00,Arameisk-Syrianska,Nykopings,1 : 6,-,-,-
+<type 'datetime.time'>,15:00,Umeå,Carlstad,0 : 0,-,-,-
+<type 'datetime.time'>,16:00,Sollentuna,Team TG FF,3 : 3,-,-,-
+<type 'datetime.time'>,17:00,Enskede,Assyriska FF,3 : 0,-,-,-
+<type 'datetime.time'>,17:00,Sandvikens,Vasalunds,1 : 0,-,-,-

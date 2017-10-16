@@ -1,0 +1,8 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,11:30,Villarreal B,Formentera,3 : 2,-,-,-
+<type 'datetime.time'>,12:00,Baleares,Badalona,0 : 0,-,-,-
+<type 'datetime.time'>,12:00,Ebro,Mallorca,0 : 2,-,-,-
+<type 'datetime.time'>,12:00,Pena Deportina,Zaragosse B ,2 : 2,-,-,-
+<type 'datetime.time'>,17:00,Cornella,Valence B,2 : 2,-,-,-
+<type 'datetime.time'>,18:00,Alcoyano,Lleida,1 : 1,-,-,-
+<type 'datetime.time'>,18:00,Hercules,Peralada,3 : 2,-,-,-

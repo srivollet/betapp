@@ -1,0 +1,8 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,12:00,Rayo Majadahonda,Pontevedra,2 : 0,-,-,-
+<type 'datetime.time'>,12:00,San Sebastian Reyes,Atl. Madrid B ,3 : 2,-,-,-
+<type 'datetime.time'>,12:15,Toledo,Rapido de Bouzas,1 : 3,-,-,-
+<type 'datetime.time'>,17:00,Coruxo,Guijuelo,1 : 0,-,-,-
+<type 'datetime.time'>,17:00,La Corogne B,CF Talavera,3 : 0,-,-,-
+<type 'datetime.time'>,17:00,Ponferradina,Navalcarnero,2 : 3,-,-,-
+<type 'datetime.time'>,18:00,Fuenlabrada,Celta Vigo B ,2 : 0,-,-,-

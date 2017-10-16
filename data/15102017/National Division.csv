@@ -1,0 +1,7 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,16:00,Fola,Differdange,6 : 3,1.95,3.60,2.60
+<type 'datetime.time'>,16:00,Hostert,Petange,2 : 2,1.65,3.60,3.40
+<type 'datetime.time'>,16:00,Niedercorn,Mondorf,3 : 2,1.32,4.20,5.50
+<type 'datetime.time'>,16:00,Racing Luxembourg,Dudelange,1 : 1,-,-,-
+<type 'datetime.time'>,16:00,UNA Strassen,Esch,2 : 1,1.75,3.60,3.05
+<type 'datetime.time'>,16:00,Victoria Rosport,Jeunesse Esch ,3 : 1,2.40,3.60,2.05

@@ -1,0 +1,4 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,01:30,U. Catolica,Deportes Iquique,2 : 0,1.55,3.30,4.25
+<type 'datetime.time'>,20:30,Colo Colo ,S. Wanderers ,0 : 0,1.48,3.40,4.70
+<type 'datetime.time'>,23:00,U. De Concepcion,Huachipato,-,2.05,2.90,2.85

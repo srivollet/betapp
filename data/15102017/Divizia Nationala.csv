@@ -1,0 +1,3 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,14:00,Sfintul,Dinamo-Auto,1 : 0,1.68,3.15,3.50
+<type 'datetime.time'>,15:00,S. Tiraspol,Petrocub,3 : 1,1.10,5.00,12.00

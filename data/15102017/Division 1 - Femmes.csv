@@ -1,0 +1,7 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,14:00,Montpellier F,Guingamp F,1 : 0,-,-,-
+<type 'datetime.time'>,15:00,Albi F,Fleury 91 F,1 : 0,-,-,-
+<type 'datetime.time'>,16:30,Lille F,Marseille F,1 : 1,-,-,-
+<type 'datetime.time'>,16:30,Paris FC F,Paris SG F,0 : 1,-,-,-
+<type 'datetime.time'>,16:30,Soyaux F,Lyon F,0 : 5,-,-,-
+<type 'datetime.time'>,17:15,Bordeaux F,Rodez F,1 : 1,-,-,-

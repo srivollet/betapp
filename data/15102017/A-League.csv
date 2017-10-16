@@ -1,0 +1,3 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,08:00,Newcastle Jets,Perth Glory,2 : 2,-,-,-
+<type 'datetime.time'>,10:00,Sydney FC,Wellington Phoenix,3 : 2,-,-,-

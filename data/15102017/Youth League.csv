@@ -1,0 +1,4 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,08:00,Ufa -21,Lok. Moscou -21,2 : 0,-,-,-
+<type 'datetime.time'>,11:00,Amkar -21,Tosno -21,5 : 2,-,-,-
+<type 'datetime.time'>,12:00,Zenit Petersburg -21,Arsenal Tula -21,1 : 2,-,-,-

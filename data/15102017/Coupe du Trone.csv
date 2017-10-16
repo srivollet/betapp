@@ -1,0 +1,3 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,18:00,Difaa El Jadidi ,Chabab Rif Hoceima,2 : 0,-,-,-
+<type 'datetime.time'>,20:30,Raja Casablanca,Chabab Atlas Khenifra,3 : 0,-,-,-

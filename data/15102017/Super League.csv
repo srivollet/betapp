@@ -1,0 +1,8 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,17:00,Skenderbeu,Lushnja,4 : 1,-,-,-
+<type 'datetime.time'>,13:35,Guangzhou R&F,Henan Jianye,3 : 2,-,-,-
+<type 'datetime.time'>,13:35,Shanghai Shenhua,Tianjin Teda,1 : 2,-,-,-
+<type 'datetime.time'>,15:00,PAOK,Lamia ,4 : 0,1.10,5.50,11.50
+<type 'datetime.time'>,17:15,Panetolikos,Levadiakos,0 : 1,1.58,2.95,4.80
+<type 'datetime.time'>,17:15,Smyrnis,Kerkyra ,0 : 0,1.72,2.75,4.30
+<type 'datetime.time'>,19:30,Xanthi ,AEK,1 : 1,4.90,2.85,1.60

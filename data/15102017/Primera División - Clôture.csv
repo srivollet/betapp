@@ -1,0 +1,5 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,00:45,Sport Rosario,Ayacucho,3 : 0,-,-,-
+<type 'datetime.time'>,03:00,AD Cantolao ,A. Lima,1 : 1,-,-,-
+<type 'datetime.time'>,20:15,Alianza Atl.,Comerciantes Unidos,3 : 2,-,-,-
+<type 'datetime.time'>,22:30,U. de Deportes,U. San Martin,-,-,-,-

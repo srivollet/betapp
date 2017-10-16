@@ -1,0 +1,4 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,15:00,AIK Stockholm,Jonkopings,2 : 0,1.20,4.10,7.75
+<type 'datetime.time'>,17:30,Elfsborg ,Sundsvall,2 : 1,1.65,3.30,3.50
+<type 'datetime.time'>,17:30,Sirius,Djurgarden,2 : 0,4.50,3.70,1.42

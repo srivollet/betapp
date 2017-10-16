@@ -1,0 +1,7 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,14:30,Nykobing,Fredericia,-,-,-,-
+<type 'datetime.time'>,14:30,Skive,Roskilde,0 : 2,-,-,-
+<type 'datetime.time'>,14:30,Thisted,Brabrand,2 : 2,-,-,-
+<type 'datetime.time'>,14:30,Vejle,Esbjerg,1 : 3,-,-,-
+<type 'datetime.time'>,14:30,Vendsyssel FF,Koge,2 : 0,-,-,-
+<type 'datetime.time'>,14:30,Viborg,F. Amager,0 : 0,-,-,-

@@ -1,0 +1,14 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,01:05,Racing Club,Tigre ,1 : 0,1.68,3.05,3.90
+<type 'datetime.time'>,16:05,Chacarita Juniors,Independiente,1 : 2,4.50,2.95,1.62
+<type 'datetime.time'>,19:05,Godoy Cruz,Gimnasia L.P.,3 : 0,2.00,2.80,3.10
+<type 'datetime.time'>,21:05,Belgrano,Talleres Cordoba,0 : 0,2.75,2.60,2.30
+<type 'datetime.time'>,23:05,River Plate,Atl. Tucuman,-,1.35,3.75,6.00
+<type 'datetime.time'>,12:00,Horsens,Hobro ,2 : 2,2.35,2.80,2.40
+<type 'datetime.time'>,14:00,Aalborg,Helsingor,1 : 0,1.40,3.40,5.25
+<type 'datetime.time'>,16:00,Brondby,Silkeborg ,4 : 1,1.17,4.50,8.00
+<type 'datetime.time'>,18:00,Odense,FC Copenhagen,1 : 0,3.60,2.95,1.72
+<type 'datetime.time'>,14:00,Besa Peje,Vllaznia Pozheran,3 : 1,-,-,-
+<type 'datetime.time'>,14:00,Gjilani,Drenica,2 : 1,-,-,-
+<type 'datetime.time'>,14:00,Trepca 89,Prishtina,0 : 2,-,-,-
+<type 'datetime.time'>,14:00,Vellaznimi,Drita,1 : 1,-,-,-

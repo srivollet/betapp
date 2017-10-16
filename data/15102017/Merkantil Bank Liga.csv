@@ -1,0 +1,11 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,15:00,Budafoki,Csakvari,0 : 2,-,-,-
+<type 'datetime.time'>,15:00,Budaorsi,Siofok,2 : 1,-,-,-
+<type 'datetime.time'>,15:00,Dorogi,Zalaegerszeg ,3 : 0,-,-,-
+<type 'datetime.time'>,15:00,Gyirmot,MTK Budapest,2 : 3,-,-,-
+<type 'datetime.time'>,15:00,Kazincbarcika,Mosonmagyarovari TE,0 : 0,-,-,-
+<type 'datetime.time'>,15:00,Soroksar,Győr,1 : 1,-,-,-
+<type 'datetime.time'>,15:00,Szeged,Soproni VSE,1 : 1,-,-,-
+<type 'datetime.time'>,15:00,Szolnoki,Cegledi,1 : 1,-,-,-
+<type 'datetime.time'>,15:00,Vac,Bekescsaba,2 : 1,-,-,-
+<type 'datetime.time'>,17:00,Nyiregyhaza,Kisvarda,0 : 0,-,-,-

@@ -1,0 +1,3 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,10:00,Davao Aguilas,Ilocos United,2 : 0,-,-,-
+<type 'datetime.time'>,13:00,Global,JP Voltes,2 : 1,-,-,-

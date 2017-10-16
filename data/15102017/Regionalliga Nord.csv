@@ -1,0 +1,6 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,14:00,Altona,Drochtersen/Assel,1 : 3,-,-,-
+<type 'datetime.time'>,14:00,Havelse,St. Pauli II,0 : 4,-,-,-
+<type 'datetime.time'>,14:00,Norderstedt,Egestorf-Langreder,0 : 0,-,-,-
+<type 'datetime.time'>,15:00,Luneburger Hansa,Hamburger SV II,0 : 3,-,-,-
+<type 'datetime.time'>,15:00,Oldenburg ,Eutin,4 : 0,-,-,-

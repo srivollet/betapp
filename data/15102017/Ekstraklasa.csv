@@ -1,0 +1,3 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,15:30,Zaglebie,Gornik Z.,3 : 2,1.70,3.05,3.50
+<type 'datetime.time'>,18:00,Legia,Lechia,1 : 0,1.68,3.05,3.60

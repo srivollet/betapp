@@ -1,0 +1,4 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,13:00,Kasimpasa,Sivasspor,2 : 3,2.10,3.00,2.75
+<type 'datetime.time'>,15:30,Trabzonspor,Akhisar Belediye,1 : 6,1.65,3.30,3.90
+<type 'datetime.time'>,18:30,Fenerbahce,Yeni Malatyaspor,3 : 1,1.30,4.10,6.50

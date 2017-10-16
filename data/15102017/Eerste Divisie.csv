@@ -1,0 +1,2 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,12:30,Graafschap,G.A. Eagles,1 : 1,-,-,-

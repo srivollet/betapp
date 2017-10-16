@@ -1,0 +1,6 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,06:00,V-Varen Nagasaki,Renofa Yamaguchi,2 : 1,-,-,-
+<type 'datetime.time'>,07:00,Nagoya,Shonan,3 : 2,-,-,-
+<type 'datetime.time'>,08:00,Ehime,Kamatamare,2 : 1,-,-,-
+<type 'datetime.time'>,08:00,Machida,Kanazawa,1 : 1,-,-,-
+<type 'datetime.time'>,12:30,Kusatsu,Verdy,1 : 2,-,-,-

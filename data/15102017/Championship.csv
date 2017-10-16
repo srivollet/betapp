@@ -1,0 +1,2 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,14:15,Derby,Nottingham,2 : 0,1.78,3.10,3.50

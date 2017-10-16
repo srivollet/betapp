@@ -1,0 +1,9 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,15:00,Bordeaux,Nantes,1 : 1,1.55,3.60,6.00
+<type 'datetime.time'>,17:00,Montpellier,Nice,2 : 0,2.60,2.95,2.75
+<type 'datetime.time'>,21:00,Strasbourg,Marseille,1 : 2,3.80,3.60,1.82
+<type 'datetime.time'>,15:30,Ben Guerdane,Stade Tunisien,1 : 2,2.80,2.60,2.30
+<type 'datetime.time'>,15:30,Stade Gabesien,Gabes ,1 : 1,2.15,2.63,3.00
+<type 'datetime.time'>,16:00,Club Africain,Stade Gabesien,-,-,-,-
+<type 'datetime.time'>,16:00,Etoile Sahel,Esperance Tunis,-,-,-,-
+<type 'datetime.time'>,16:00,Sfaxien,Metlaoui,-,-,-,-

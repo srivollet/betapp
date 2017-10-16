@@ -1,0 +1,3 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,08:00,Jeonbuk,Seoul,0 : 0,-,-,-
+<type 'datetime.time'>,08:00,Suwon,Ulsan Hyundai,2 : 0,-,-,-

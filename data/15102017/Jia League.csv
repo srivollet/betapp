@@ -1,0 +1,5 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,09:30,Dalian Yifang F.C.,Dalian Transcend,2 : 1,-,-,-
+<type 'datetime.time'>,10:00,Wuhan Zall,Shanghai Shenxin,3 : 2,-,-,-
+<type 'datetime.time'>,13:30,Zhejiang Yiteng,Baoding Yingli Yitong,2 : 3,-,-,-
+<type 'datetime.time'>,13:35,Shijiazhuang,Hangzhou Greentown,2 : 2,-,-,-

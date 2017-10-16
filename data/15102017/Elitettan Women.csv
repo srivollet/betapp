@@ -1,0 +1,2 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,15:00,Kalmar F,Ostersunds F,2 : 1,-,-,-

@@ -1,0 +1,4 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,16:30,Göteborg F,Rosengard F,1 : 1,-,-,-
+<type 'datetime.time'>,16:30,Linköpings F,Kristianstads F,1 : 0,-,-,-
+<type 'datetime.time'>,16:30,Pitea F,Eskilstuna United F ,2 : 2,-,-,-

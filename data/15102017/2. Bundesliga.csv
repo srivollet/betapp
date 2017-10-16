@@ -1,0 +1,4 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,13:30,Furth,Aue,2 : 1,2.05,2.85,3.00
+<type 'datetime.time'>,13:30,Heidenheim ,Kiel,3 : 5,2.95,3.00,2.00
+<type 'datetime.time'>,13:30,Regensburg,Union Berlin,0 : 2,2.85,3.15,2.00

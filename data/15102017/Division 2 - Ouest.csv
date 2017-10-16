@@ -1,0 +1,3 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,12:00,Dynamo SPB 2,Luki-Energiya,0 : 0,-,-,-
+<type 'datetime.time'>,15:00,S. Kostroma,Pskov,2 : 1,-,-,-

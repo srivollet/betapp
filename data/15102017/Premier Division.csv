@@ -1,0 +1,3 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,16:30,Manchester 62,Gibraltar United,1 : 1,-,-,-
+<type 'datetime.time'>,18:30,Gibraltar Phoenix,Lincoln,0 : 5,-,-,-

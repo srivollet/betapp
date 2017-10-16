@@ -1,0 +1,5 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,12:00,Eibar,La Corogne,0 : 0,1.85,3.30,3.90
+<type 'datetime.time'>,16:15,Girona,Villarreal,1 : 2,2.55,3.10,2.60
+<type 'datetime.time'>,18:30,Malaga ,Leganes,0 : 2,2.35,2.90,3.05
+<type 'datetime.time'>,20:45,Betis,Valence,0 : 3,2.55,3.40,2.40

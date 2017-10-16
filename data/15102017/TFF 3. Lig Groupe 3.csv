@@ -1,0 +1,7 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,12:00,Elaziz Bld.,Aydinspor,0 : 1,-,-,-
+<type 'datetime.time'>,13:00,Cizrespor,Karakopru,1 : 0,-,-,-
+<type 'datetime.time'>,13:30,Corum,Arsinspor,2 : 0,-,-,-
+<type 'datetime.time'>,14:00,Kizilcaboluk Spor Kulubu,Utas Usakspor,1 : 4,-,-,-
+<type 'datetime.time'>,14:00,Tepecik ,Ankara Adliyespor,3 : 0,-,-,-
+<type 'datetime.time'>,18:00,Kocaelispor,Osmaniyespor ,1 : 1,-,-,-

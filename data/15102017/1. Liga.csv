@@ -1,0 +1,2 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,18:00,Sparta Prague,Plzen,0 : 1,2.20,2.80,2.55

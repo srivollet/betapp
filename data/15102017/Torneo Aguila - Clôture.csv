@@ -1,0 +1,5 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,18:30,Popayan,Real Cartagena,-,-,-,-
+<type 'datetime.time'>,21:00,Bogota ,Quindio,0 : 1,-,-,-
+<type 'datetime.time'>,22:15,Cucuta,Leones,-,-,-,-
+<type 'datetime.time'>,22:30,Llaneros,Orsomarso,-,-,-,-

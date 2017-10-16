@@ -1,0 +1,3 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,00:00,Zacatepec,Zacatecas Mineros ,2 : 2,-,-,-
+<type 'datetime.time'>,03:15,Celaya,UAEM Potros,0 : 0,-,-,-

@@ -1,0 +1,7 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,13:00,Oberlausitz,Luckenwalde,2 : 0,-,-,-
+<type 'datetime.time'>,13:30,Bautzen,Lokomotive Leipzig,0 : 0,-,-,-
+<type 'datetime.time'>,13:30,Chemie Leipzig,Viktoria Berlin,1 : 0,-,-,-
+<type 'datetime.time'>,13:30,Cottbus,Babelsberg,4 : 0,-,-,-
+<type 'datetime.time'>,13:30,Meuselwitz,Berliner AK 07,4 : 0,-,-,-
+<type 'datetime.time'>,13:30,Neustrelitz,Furstenwalde,0 : 1,-,-,-

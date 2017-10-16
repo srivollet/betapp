@@ -1,0 +1,4 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,14:00,Middlesbrough -23 ,Reading -23,3 : 4,-,-,-
+<type 'datetime.time'>,14:00,West Ham -23,Manchester Utd -23,4 : 2,-,-,-
+<type 'datetime.time'>,15:00,Norwich -23,West Brom -23,1 : 1,-,-,-

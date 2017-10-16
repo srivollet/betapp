@@ -1,0 +1,11 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,11:00,Extremadura UD,Las Palmas B,1 : 1,-,-,-
+<type 'datetime.time'>,12:00,Ecija,Melilla,2 : 1,-,-,-
+<type 'datetime.time'>,12:00,Jumilla,Grenade B,1 : 1,-,-,-
+<type 'datetime.time'>,16:45,Betis B,Merida AD,0 : 0,-,-,-
+<type 'datetime.time'>,17:00,Linense,UCAM Murcia,0 : 0,-,-,-
+<type 'datetime.time'>,17:00,Murcia,Marbella,3 : 0,-,-,-
+<type 'datetime.time'>,18:00,Badajoz,Cordoba B ,3 : 0,-,-,-
+<type 'datetime.time'>,18:00,Huelva,Ejido,1 : 1,-,-,-
+<type 'datetime.time'>,19:00,Cartagena,San Fernando,3 : 1,-,-,-
+<type 'datetime.time'>,19:00,Lorca Deportiva,Villanovense,0 : 0,-,-,-

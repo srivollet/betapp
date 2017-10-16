@@ -1,0 +1,7 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,11:00,Frankfurt F,Duisburg F,2 : 1,-,-,-
+<type 'datetime.time'>,11:00,Freiburg F,Bremen F,4 : 1,-,-,-
+<type 'datetime.time'>,13:00,Bayern F,Sand F,2 : 0,-,-,-
+<type 'datetime.time'>,14:00,Koln F,Hoffenheim F,0 : 3,-,-,-
+<type 'datetime.time'>,14:00,SGS Essen F,Jena F,6 : 0,-,-,-
+<type 'datetime.time'>,15:00,Wolfsburg F,Potsdam F,2 : 2,-,-,-

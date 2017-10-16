@@ -1,0 +1,5 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,11:00,Bochum -19,Duisburg -19,5 : 0,-,-,-
+<type 'datetime.time'>,11:00,Fortuna Koln -19,B. Monchengladbach -19 ,2 : 0,-,-,-
+<type 'datetime.time'>,11:00,Oberhausen -19,Arminia Klosterhardt -19,0 : 1,-,-,-
+<type 'datetime.time'>,11:00,Preussen Munster -19,Bielefeld -19,3 : 1,-,-,-

@@ -1,0 +1,5 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,13:00,FK Panevezys,Palanga,3 : 4,-,-,-
+<type 'datetime.time'>,13:00,Silute,Dziugas Telsiai,1 : 3,-,-,-
+<type 'datetime.time'>,14:00,Banga,Kruoja,5 : 0,-,-,-
+<type 'datetime.time'>,14:00,Trakai 2,Utenis 2 ,3 : 1,-,-,-

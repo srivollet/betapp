@@ -1,0 +1,8 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,13:00,24 Erzincanspor,Belediye Vanspor,3 : 0,-,-,-
+<type 'datetime.time'>,13:00,Pazarspor,Trabzon,1 : 0,-,-,-
+<type 'datetime.time'>,13:00,Yeni Orduspor,Anatolia Bagcilar,1 : 1,-,-,-
+<type 'datetime.time'>,13:30,Erciyesspor,Diyarbekirspor,1 : 4,-,-,-
+<type 'datetime.time'>,14:00,Ergene Velimese,Kirikhanspor,2 : 2,-,-,-
+<type 'datetime.time'>,14:00,Erokspor,Golcukspor,1 : 2,-,-,-
+<type 'datetime.time'>,14:00,Muglaspor,Yesil Bursa,2 : 0,-,-,-

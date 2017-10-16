@@ -1,0 +1,6 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,13:00,Batman Petrolspor,Altindag Bld.,2 : 1,-,-,-
+<type 'datetime.time'>,13:00,Bayburt,12 Bingol ,0 : 0,-,-,-
+<type 'datetime.time'>,13:30,Kozan ,Erbaaspor,3 : 1,-,-,-
+<type 'datetime.time'>,14:00,Kemerspor 2003,Orhangazispor,3 : 1,-,-,-
+<type 'datetime.time'>,14:00,Manisa,Ofspor,1 : 0,-,-,-

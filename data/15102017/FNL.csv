@@ -1,0 +1,3 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,13:00,Znojmo,Ceske Budejovice ,1 : 1,-,-,-
+<type 'datetime.time'>,15:00,Sokolov,Olympia Prague ,1 : 3,-,-,-

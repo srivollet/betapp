@@ -1,0 +1,4 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,14:30,Standard Liège ,Courtrai ,3 : 1,1.32,4.00,6.00
+<type 'datetime.time'>,18:00,Ostende,Club Brugge ,2 : 3,2.95,3.15,1.95
+<type 'datetime.time'>,20:00,Antwerp,Zulte-Waregem ,3 : 0,2.50,3.00,2.30

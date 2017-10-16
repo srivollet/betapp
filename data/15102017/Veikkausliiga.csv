@@ -1,0 +1,4 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,14:00,Ilves,KuPS,1 : 0,2.20,2.70,2.65
+<type 'datetime.time'>,14:00,Kemi,SJK,3 : 3,2.80,2.90,2.00
+<type 'datetime.time'>,14:00,Rovaniemi,VPS,3 : 0,2.40,2.85,2.30

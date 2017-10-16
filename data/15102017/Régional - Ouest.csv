@@ -1,0 +1,3 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,14:00,USK Anif,Grodig,2 : 2,-,-,-
+<type 'datetime.time'>,15:30,Altach (Am) ,Innsbruck (Am),2 : 1,-,-,-

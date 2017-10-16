@@ -1,0 +1,5 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,01:00,Blooming,Petrolero de Yacuiba,1 : 0,-,-,-
+<type 'datetime.time'>,21:00,Real Potosi,Guabira,1 : 0,-,-,-
+<type 'datetime.time'>,21:00,U. Sucre,Bolivar,0 : 2,-,-,-
+<type 'datetime.time'>,23:15,J. Wilstermann,The Strongest,-,-,-,-

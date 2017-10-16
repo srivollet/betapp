@@ -1,0 +1,5 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,12:00,Can Tho,BHTS Quang Nam,2 : 3,-,-,-
+<type 'datetime.time'>,12:00,Da Nang,Long An,2 : 0,-,-,-
+<type 'datetime.time'>,12:00,Thanh Hoa,T&T Ha Noi,3 : 3,-,-,-
+<type 'datetime.time'>,13:00,Sai Gon FC,Khanh Hoa ,0 : 0,-,-,-

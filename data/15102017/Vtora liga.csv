@@ -1,0 +1,2 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,15:00,Ludogorets II,Strumska Slava,1 : 2,-,-,-

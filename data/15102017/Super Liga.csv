@@ -1,0 +1,4 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,15:00,Backa,Borac,1 : 0,1.70,2.95,4.00
+<type 'datetime.time'>,15:00,Radnik,Partizan,0 : 2,6.50,3.75,1.32
+<type 'datetime.time'>,17:00,Mladost,Napredak,2 : 1,2.10,2.80,2.85

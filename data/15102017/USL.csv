@@ -1,0 +1,12 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,00:05,Rochester,New York Red Bulls 2,2 : 1,-,-,-
+<type 'datetime.time'>,01:00,Charlotte Independ.,Charleston,0 : 1,-,-,-
+<type 'datetime.time'>,01:00,Pittsburgh,Ottawa Fury,1 : 1,-,-,-
+<type 'datetime.time'>,01:30,Louisville City,Richmond Kickers ,3 : 1,-,-,-
+<type 'datetime.time'>,01:30,Toronto FC 2,Cincinnati,3 : 4,-,-,-
+<type 'datetime.time'>,02:00,Tulsa Roughnecks,Colorado Springs,2 : 4,-,-,-
+<type 'datetime.time'>,02:30,San Antonio,Rio Grande ,3 : 1,-,-,-
+<type 'datetime.time'>,03:00,Real Monarchs,Los Angeles 2 ,2 : 1,-,-,-
+<type 'datetime.time'>,04:00,Reno,Sacramento Republic,2 : 2,-,-,-
+<type 'datetime.time'>,04:30,Phoenix Rising,Portland 2,4 : 1,-,-,-
+<type 'datetime.time'>,21:00,Bethlehem,Saint Louis,1 : 1,-,-,-

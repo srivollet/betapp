@@ -1,0 +1,4 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,12:00,Sandviken F,Grand Bodo F,6 : 2,-,-,-
+<type 'datetime.time'>,13:00,Kolbotn F,LSK Kvinner F,1 : 3,-,-,-
+<type 'datetime.time'>,16:30,Stabaek F,Avaldsnes F,2 : 1,-,-,-

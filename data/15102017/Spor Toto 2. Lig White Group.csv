@@ -1,0 +1,7 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,13:30,Hacettepe,Nigde Belediyespor,0 : 0,-,-,-
+<type 'datetime.time'>,13:30,Zonguldak,Bandirmaspor,2 : 0,-,-,-
+<type 'datetime.time'>,14:00,Karagumruk,Anadolu Selcukspor,2 : 1,-,-,-
+<type 'datetime.time'>,14:00,Nazillispor,Kirklarelispor,1 : 2,-,-,-
+<type 'datetime.time'>,17:00,Sanliurfaspor ,Sakaryaspor,2 : 2,-,-,-
+<type 'datetime.time'>,18:00,Kahramanmaras,Silivrispor,2 : 1,-,-,-

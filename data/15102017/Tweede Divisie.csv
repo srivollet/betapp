@@ -1,0 +1,3 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,14:30,AFC,VVSB,0 : 1,-,-,-
+<type 'datetime.time'>,14:30,Lienden,HFC,1 : 1,-,-,-

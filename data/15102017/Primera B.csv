@@ -1,0 +1,4 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,01:00,Rangers,Valdivia,1 : 0,-,-,-
+<type 'datetime.time'>,17:00,La Serena,Coquimbo ,2 : 1,-,-,-
+<type 'datetime.time'>,21:00,Nublense,S. Morning,0 : 0,-,-,-

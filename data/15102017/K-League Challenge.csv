@@ -1,0 +1,3 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,08:00,Ansan Greeners,Asan Mugunghwa,0 : 1,-,-,-
+<type 'datetime.time'>,08:00,Daejeon,Bucheon,0 : 1,-,-,-

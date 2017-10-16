@@ -1,0 +1,9 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,14:30,Bassano,Triestina,1 : 1,-,-,-
+<type 'datetime.time'>,14:30,Fermana,Vicenza,0 : 0,-,-,-
+<type 'datetime.time'>,14:30,Mestre,Reggiana,1 : 0,-,-,-
+<type 'datetime.time'>,14:30,Ravenna,FeralpiSalo,0 : 1,-,-,-
+<type 'datetime.time'>,14:30,Renate,Sambenedettese,1 : 1,-,-,-
+<type 'datetime.time'>,14:30,Sudtirol,Santarcangelo,5 : 0,-,-,-
+<type 'datetime.time'>,18:30,AlbinoLeffe,Pordenone,1 : 1,-,-,-
+<type 'datetime.time'>,18:30,Gubbio,Fano,3 : 2,-,-,-

@@ -1,0 +1,5 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,12:00,Ankaragucu,Boluspor,2 : 0,-,-,-
+<type 'datetime.time'>,12:00,Rizespor,Samsunspor,1 : 1,-,-,-
+<type 'datetime.time'>,14:30,Altinordu,Adanaspor ,1 : 1,-,-,-
+<type 'datetime.time'>,17:00,Adana Demirspor,Eskisehirspor,3 : 1,-,-,-

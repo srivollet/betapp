@@ -1,0 +1,3 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,15:30,Saburtalo Tbilisi,Poti,6 : 3,1.35,3.70,5.25
+<type 'datetime.time'>,18:00,Din. Tbilisi,Lokomotiv Tbilisi,3 : 1,1.70,3.20,3.30

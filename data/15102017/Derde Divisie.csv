@@ -1,0 +1,9 @@
+date,horaire,team_home,team_away,score,cote1,coteN,cote2
+<type 'datetime.time'>,14:00,HBS,Hsc 21,0 : 1,-,-,-
+<type 'datetime.time'>,14:00,JVC '31 Cuijk,HV & CV Quick,2 : 1,-,-,-
+<type 'datetime.time'>,14:00,Rosmalen,ADO 20 Heemskerk,1 : 1,-,-,-
+<type 'datetime.time'>,14:00,USV Hercules,KVV Quick 20,2 : 0,-,-,-
+<type 'datetime.time'>,14:00,Westlandia,Blauw Geel,2 : 4,-,-,-
+<type 'datetime.time'>,14:30,Be Quick 1887,De Meern,3 : 3,-,-,-
+<type 'datetime.time'>,14:30,Dongen,Jong Vitesse,0 : 3,-,-,-
+<type 'datetime.time'>,14:30,Oostzaan,Jong De Graafschap,1 : 1,-,-,-
