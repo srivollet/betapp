@@ -1,3 +1,5 @@
 ghostdriver.log
 .vscode
 test.py
+/.settings/
+/.project
