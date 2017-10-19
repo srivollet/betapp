@@ -5,6 +5,7 @@ from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 import re, time, csv, os, sqlite3
 from datetime import datetime
+from db import saveTeams
 
 browser = webdriver.Chrome()
 
@@ -53,11 +54,11 @@ for soccer in soup.find_all("table", class_="soccer odds"):
 
         #insertion dans la base
         c.writerow([datetime.now().strftime("%d%m%Y"), horaire,team_home,team_visitor,score,cote1,coteN,cote2])
-        #cursor.execute("INSERT INTO TEAMS(name,country) VALUES(?,?)", (str(team_home), 'null'))
         #cursor.execute("INSERT INTO TEAMS(name,country) VALUES(?,?)", (str(team_visitor), 'null'))
-
+        #saveTeams(cursor, team_home)
 #        cursor.execute("INSERT INTO MATCHS(date,heure,score_home, score_visitor, team_home, team_visitor) VALUES(?,?,?,?,?,?)", 
 #            (datetime.now().strftime("%d%m%Y"), horaire, score_visitor, 0, team_home, team_visitor))
 
 
 browser.close()
+    
