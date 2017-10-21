@@ -21,16 +21,15 @@ class Competition:
 class Equipe:
     nom = ""
     pays = ""
-    def __str__(self):
-         return "foo"
 
 class Match:
     date = ""
     equipe_domicile = Equipe()
     score_domicile = 0
+    cote_equipe_domicile = 0
     equipe_visiteur = Equipe()
     score_visiteur = 0
+    cote_equipe_visiteur = 0
     competition = Competition()
-    def __str__(self):
-         return "foo"
+
 
