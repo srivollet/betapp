@@ -3,9 +3,12 @@
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
-import re, time, csv, os, sqlite3
+import re, time, csv, os, sys
 from datetime import datetime
-from db import saveTeams
+from model import *
+
+reload(sys)
+sys.setdefaultencoding('utf-8')
 
 browser = webdriver.Chrome()
 
@@ -26,39 +29,32 @@ soup = BeautifulSoup(resultats.get_attribute('innerHTML'), 'html.parser')
 for soccer in soup.find_all("table", class_="soccer odds"):
 
     #On extrait la competition
-    tournament_part = soccer.find("span", class_="tournament_part").text
+    competition = Competition()
+    competition.nom = soccer.find("span", class_="tournament_part").get_text()
+    competition.pays = soccer.find("span", class_="country_part").get_text()
 
-    exist = False
+    #On extrait chaque match dans notre modèle
+    for line in soccer.find('tbody').find_all('tr'):
+        match = Match()
+        
+        match.competition = competition
 
-    #Ouverture du fichier / creation du fichier
-    if os.path.exists("data/" + tournament_part + ".csv"):
-        exist = True
+        match.date = datetime.now().strftime("%d%m%Y")
+        match.heure = line.find('td', class_="cell_ad").get_text()
 
-    c = csv.writer(open("data/" + tournament_part + ".csv", "ab"))
+        match.equipe_1.nom = line.find('td', class_="team-home").get_text()
+        match.equipe_2.nom = line.find('td', class_="team-away").get_text()
 
-    if not exist:
-        c.writerow(["date", "horaire","team_home","team_away","score","cote1","coteN","cote2"])
+        score = line.find('td', class_="score").get_text(strip=True)
+        if score != "-":
+            scores = score.split(":")
+            match.score_1 = scores[0].strip()
+            match.score_2 = scores[1].strip()
 
-    #db = sqlite3.connect('db/betapp.db')
-    #cursor = db.cursor()
-
-    #On extrait chaque match
-    for match in soccer.find('tbody').find_all('tr'):
-        horaire = match.find('td', class_="cell_ad").text.encode('utf-8')
-        team_home = match.find('td', class_="team-home").text.encode('utf-8')
-        team_visitor = match.find('td', class_="team-away").text.encode('utf-8')
-        score = match.find('td', class_="score").text.encode('utf-8')
-        cote1 = match.find('td', class_="cell_oa").text.encode('utf-8')
-        coteN = match.find('td', class_="cell_ob").text.encode('utf-8')
-        cote2 = match.find('td', class_="cell_oc").text.encode('utf-8')
-
-        #insertion dans la base
-        c.writerow([datetime.now().strftime("%d%m%Y"), horaire,team_home,team_visitor,score,cote1,coteN,cote2])
-        #cursor.execute("INSERT INTO TEAMS(name,country) VALUES(?,?)", (str(team_visitor), 'null'))
-        #saveTeams(cursor, team_home)
-#        cursor.execute("INSERT INTO MATCHS(date,heure,score_home, score_visitor, team_home, team_visitor) VALUES(?,?,?,?,?,?)", 
-#            (datetime.now().strftime("%d%m%Y"), horaire, score_visitor, 0, team_home, team_visitor))
-
+        cote_1 = line.find('td', class_="cell_oa").get_text()
+        if cote_1 != "-":
+            match.cote_1 = cote_1
+            match.cote_2 = line.find('td', class_="cell_oc").get_text()
+            match.cote_N = line.find('td', class_="cell_ob").get_text()
 
 browser.close()
-    

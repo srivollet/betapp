@@ -4,18 +4,23 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 import re, time, csv, os, sqlite3
-from datetime import datetime
-from db import saveTeams
+from datetime import datetime, timedelta
 
 browser = webdriver.Chrome()
 
 #On ouvre le site
 browser.get('http://www.flashresultats.fr/')
 
-#On va sur la page des cotes
 resultats = browser.find_element_by_css_selector('.ifmenu-odds.li4').click()
 
 time.sleep(3)
+
+#On va sur la page des cotes
+yesterday = datetime.today() - timedelta(1)
+print yesterday.strftime("%d%m%Y")
+browser.find_element_by_class_name('yesterday').click()
+
+time.sleep(10)
 
 #On recupere le tableau des resultats
 resultats = browser.find_element_by_class_name('odds-content')
@@ -53,7 +58,7 @@ for soccer in soup.find_all("table", class_="soccer odds"):
         cote2 = match.find('td', class_="cell_oc").text.encode('utf-8')
 
         #insertion dans la base
-        c.writerow([datetime.now().strftime("%d%m%Y"), horaire,team_home,team_visitor,score,cote1,coteN,cote2])
+        c.writerow([yesterday.strftime("%d%m%Y"), horaire,team_home,team_visitor,score,cote1,coteN,cote2])
         #cursor.execute("INSERT INTO TEAMS(name,country) VALUES(?,?)", (str(team_visitor), 'null'))
         #saveTeams(cursor, team_home)
 #        cursor.execute("INSERT INTO MATCHS(date,heure,score_home, score_visitor, team_home, team_visitor) VALUES(?,?,?,?,?,?)", 
